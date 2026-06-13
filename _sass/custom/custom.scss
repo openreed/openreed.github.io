@@ -37,13 +37,16 @@ html {
 
 @include mq(lg) {
   .side-bar {
-    width: calc((100% - 64rem) / 2);
+    width: Min(18rem, calc((100% - 64rem) / 2));
     min-width: 14rem;
   }
   .side-bar + .main {
-    margin-left: Max(
-      14rem,                
-      calc((100% - 64rem) / 2 + 10rem)   // 这里 + 10rem 造成了呼吸间距
+    margin-left: Min(
+      calc(18rem + 10rem),  // 侧栏上限 + 间距，封顶
+      Max(
+        14rem,
+        calc((100% - 64rem) / 2 + 10rem)
+      )
     );
   }
 }

@@ -2,7 +2,6 @@
 title: OpenReed
 description: 开源、廉价的基于3D打印的双簧乐器配件与哨片机器
 logo: "/assets/images/logo/openreed_logo.svg"
-favicon_ico: "/assets/images/logo/openreed_logo.ico"
 remote_theme: just-the-docs/just-the-docs
 baseurl: ""
 url: "https://openreed.github.io"

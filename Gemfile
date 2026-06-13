@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 gem "jekyll", ">= 3.8.5"
 gem "just-the-docs"
+gem "kramdown-parser-gfm"
 
 gem "jekyll-github-metadata", ">= 2.15"
 
