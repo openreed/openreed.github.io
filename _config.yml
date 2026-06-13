@@ -3,7 +3,7 @@ title: OpenReed
 description: 开源、廉价的基于3D打印的双簧乐器配件与哨片机器
 logo: "/assets/images/logo/openreed_logo.svg"
 favicon_ico: "/assets/images/logo/openreed_logo.ico"
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 baseurl: ""
 url: "https://openreed.github.io"
 repository: openreed/openreed.github.io
@@ -96,6 +96,7 @@ gh_edit_view_mode: "tree"
 # ga_tracking: UA-1234567-89
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-github-metadata
   - jekyll-include-cache

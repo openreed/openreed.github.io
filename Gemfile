@@ -6,6 +6,7 @@ gem "just-the-docs"
 gem "jekyll-github-metadata", ">= 2.15"
 
 group :jekyll_plugins do
+  gem "jekyll-remote-theme"
   gem "jekyll-include-cache"
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
