@@ -1,0 +1,121 @@
+# OpenReed - 双簧乐器开源配件项目
+title: OpenReed
+description: 开源、廉价的基于3D打印的双簧乐器配件与哨片机器
+logo: "/assets/images/logo/openreed_logo.svg"
+favicon_ico: "/assets/images/logo/openreed_logo.ico"
+theme: just-the-docs
+baseurl: ""
+url: "https://openreed.github.io"
+repository: openreed/openreed.github.io
+
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.txt
+  - package.json
+  - package-lock.json
+
+# Enable or disable the site search
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 2
+  preview_words_before: 3
+  preview_words_after: 3
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+  focus_shortcut_key: "k"
+
+enable_copy_code_button: true
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "OpenReed on GitHub":
+    - "https://github.com/openreed"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+# Enable or disable the side/mobile menu globally
+nav_enabled: true
+
+# Sort order for navigation links
+nav_sort: case_insensitive
+
+# External navigation links
+nav_external_links:
+  - title: OpenReed on GitHub
+    url: https://github.com/openreed
+
+liquid:
+  error_mode: strict
+  strict_filters: true
+
+# Footer content
+# appears at the bottom of every page's main content
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: 'Copyright &copy; 2026 OpenReed Project. Open source under <a href="https://github.com/openreed/openreed.github.io/blob/main/LICENSE.txt">MIT license</a>.'
+
+# Footer last edited timestamp
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/openreed/openreed.github.io"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
+
+# Google Analytics Tracking (optional)
+# ga_tracking: UA-1234567-89
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+  - jekyll-sitemap
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+  # ignore:
+  #   envs: all
+
+sass:
+  quiet_deps: true # https://github.com/just-the-docs/just-the-docs/issues/1541
+  silence_deprecations: ['import'] # https://github.com/just-the-docs/just-the-docs/issues/1607

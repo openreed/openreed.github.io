@@ -1,0 +1,471 @@
+{"0": {
+    "doc": "Cane Easel",
+    "title": "Cane Easel for Oboe",
+    "content": " ",
+    "url": "/oboe/cane-easel/#cane-easel-for-oboe",
+    
+    "relUrl": "/oboe/cane-easel/#cane-easel-for-oboe"
+  },"1": {
+    "doc": "Cane Easel",
+    "title": "Description",
+    "content": "The cane easel is used for marking the center of the cane and providing support when shaving the end of the cane. ",
+    "url": "/oboe/cane-easel/#description",
+    
+    "relUrl": "/oboe/cane-easel/#description"
+  },"2": {
+    "doc": "Cane Easel",
+    "title": "Build Guide",
+    "content": "Bill of Materials . Printed Parts . | Easel body $\\times$ 1 | Easel lid $\\times$ 2 | . Printing the Parts . Generating 3D Files . | Source | Description | . | GitHub Repository | Generate the 3D file from cane-easel.scad. | . | MakerWorld Global | Generate the 3D file on MakerWorld Global webpage. | . | MakerWorld CN | Generate the 3D file on MakerWorld CN webpage. | . Customization . The cane easel is fully parametric and can be customized by modifying the parameters in cane-easel.scad. You can edit them to fit different instruments. Reference parameters for oboe and English horn are given below. | Instrument | Easel Length | Easel Diameter | . | Oboe | 76mm | 10.0mm | . | English Horn | 93mm | 13.7mm | . Printing Tips . | Use a layer height lower than 0.12mm to make sure the screw fits well. | . Assembly . Simply screw the two easel lids onto each side of the easel body. ",
+    "url": "/oboe/cane-easel/#build-guide",
+    
+    "relUrl": "/oboe/cane-easel/#build-guide"
+  },"3": {
+    "doc": "Cane Easel",
+    "title": "Links",
+    "content": "Resources . GitHub Repository MakerWorld Global Page MakerWorld CN Page . ",
+    "url": "/oboe/cane-easel/#links",
+    
+    "relUrl": "/oboe/cane-easel/#links"
+  },"4": {
+    "doc": "Cane Easel",
+    "title": "Cane Easel",
+    "content": " ",
+    "url": "/oboe/cane-easel/",
+    
+    "relUrl": "/oboe/cane-easel/"
+  },"5": {
+    "doc": "Cane Easel",
+    "title": "Cane Easel for English Horn",
+    "content": " ",
+    "url": "/english-horn/cane-easel/#cane-easel-for-english-horn",
+    
+    "relUrl": "/english-horn/cane-easel/#cane-easel-for-english-horn"
+  },"6": {
+    "doc": "Cane Easel",
+    "title": "Description",
+    "content": "The cane easel is used for marking the center of the cane and providing support when shaving the end of the cane. ",
+    "url": "/english-horn/cane-easel/#description",
+    
+    "relUrl": "/english-horn/cane-easel/#description"
+  },"7": {
+    "doc": "Cane Easel",
+    "title": "Build Guide",
+    "content": "Bill of Materials . Printed Parts . | Easel body $\\times$ 1 | Easel lid $\\times$ 2 | . Printing the Parts . Generating 3D Files . | Source | Description | . | GitHub Repository | Generate the 3D file from cane-easel.scad. | . | MakerWorld Global | Generate the 3D file on MakerWorld Global webpage. | . | MakerWorld CN | Generate the 3D file on MakerWorld CN webpage. | . Customization . The cane easel is fully parametric and can be customized by modifying the parameters in cane-easel.scad. You can edit them to fit different instruments. Reference parameters for oboe and English horn are given below. | Instrument | Easel Length | Easel Diameter | . | Oboe | 76mm | 10.0mm | . | English Horn | 93mm | 13.7mm | . Printing Tips . | Use a layer height lower than 0.12mm to make sure the screw fits well. | . Assembly . Simply screw the two easel lids onto each side of the easel body. ",
+    "url": "/english-horn/cane-easel/#build-guide",
+    
+    "relUrl": "/english-horn/cane-easel/#build-guide"
+  },"8": {
+    "doc": "Cane Easel",
+    "title": "Links",
+    "content": "Resources . GitHub Repository MakerWorld Global Page MakerWorld CN Page . ",
+    "url": "/english-horn/cane-easel/#links",
+    
+    "relUrl": "/english-horn/cane-easel/#links"
+  },"9": {
+    "doc": "Cane Easel",
+    "title": "Cane Easel",
+    "content": " ",
+    "url": "/english-horn/cane-easel/",
+    
+    "relUrl": "/english-horn/cane-easel/"
+  },"10": {
+    "doc": "哨片中分器",
+    "title": "英国管哨片中分器",
+    "content": " ",
+    "url": "/zh-cn/english-horn/cane-easel/#%E8%8B%B1%E5%9B%BD%E7%AE%A1%E5%93%A8%E7%89%87%E4%B8%AD%E5%88%86%E5%99%A8",
+    
+    "relUrl": "/zh-cn/english-horn/cane-easel/#英国管哨片中分器"
+  },"11": {
+    "doc": "哨片中分器",
+    "title": "简介",
+    "content": "哨片中分器用于标记苇片的中心线，并在刮削苇片末端时提供支撑。 . ",
+    "url": "/zh-cn/english-horn/cane-easel/#%E7%AE%80%E4%BB%8B",
+    
+    "relUrl": "/zh-cn/english-horn/cane-easel/#简介"
+  },"12": {
+    "doc": "哨片中分器",
+    "title": "制作指南",
+    "content": "物料清单 . 打印零件 . | 中分器主体 $\\times$ 1 | 中分器侧盖 $\\times$ 2 | . 打印零件 . 生成 3D 文件 . | 来源 | 说明 | . | GitHub 仓库 | 从 cane-easel.scad 生成 3D 文件。 | . | MakerWorld 全球站 | 在 MakerWorld 全球站网页上生成 3D 文件。 | . | MakerWorld 中国站 | 在 MakerWorld 中国站网页上生成 3D 文件。 | . 定制 . 苇片中分器完全参数化，可以通过修改 cane-easel.scad 中的参数进行定制。 您可以编辑参数以适应不同的船型苇片。 以下是双簧管和英国管的参考参数。 . | 乐器 | 中分器长度 | 中分器直径 | . | 双簧管 | 76mm | 10.0mm | . | 英国管 | 93mm | 13.7mm | . 打印建议 . | 使用低于 0.12mm 的层高，以确保螺纹配合良好。 | . 组装 . 将两个中分器侧盖分别旋入中分器主体的两端即可。 . ",
+    "url": "/zh-cn/english-horn/cane-easel/#%E5%88%B6%E4%BD%9C%E6%8C%87%E5%8D%97",
+    
+    "relUrl": "/zh-cn/english-horn/cane-easel/#制作指南"
+  },"13": {
+    "doc": "哨片中分器",
+    "title": "相关链接",
+    "content": "资源 . GitHub 仓库 MakerWorld 全球站 MakerWorld 中国站 . ",
+    "url": "/zh-cn/english-horn/cane-easel/#%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5",
+    
+    "relUrl": "/zh-cn/english-horn/cane-easel/#相关链接"
+  },"14": {
+    "doc": "哨片中分器",
+    "title": "哨片中分器",
+    "content": " ",
+    "url": "/zh-cn/english-horn/cane-easel/",
+    
+    "relUrl": "/zh-cn/english-horn/cane-easel/"
+  },"15": {
+    "doc": "哨片中分器",
+    "title": "双簧管哨片中分器",
+    "content": " ",
+    "url": "/zh-cn/oboe/cane-easel/#%E5%8F%8C%E7%B0%A7%E7%AE%A1%E5%93%A8%E7%89%87%E4%B8%AD%E5%88%86%E5%99%A8",
+    
+    "relUrl": "/zh-cn/oboe/cane-easel/#双簧管哨片中分器"
+  },"16": {
+    "doc": "哨片中分器",
+    "title": "简介",
+    "content": "哨片中分器用于标记苇片的中心线，并在刮削苇片末端时提供支撑。 . ",
+    "url": "/zh-cn/oboe/cane-easel/#%E7%AE%80%E4%BB%8B",
+    
+    "relUrl": "/zh-cn/oboe/cane-easel/#简介"
+  },"17": {
+    "doc": "哨片中分器",
+    "title": "制作指南",
+    "content": "物料清单 . 打印零件 . | 中分器主体 $\\times$ 1 | 中分器侧盖 $\\times$ 2 | . 打印零件 . 生成 3D 文件 . | 来源 | 说明 | . | GitHub 仓库 | 从 cane-easel.scad 生成 3D 文件。 | . | MakerWorld 全球站 | 在 MakerWorld 全球站网页上生成 3D 文件。 | . | MakerWorld 中国站 | 在 MakerWorld 中国站网页上生成 3D 文件。 | . 定制 . 哨片中分器完全参数化，可以通过修改 cane-easel.scad 中的参数进行定制。 您可以编辑参数以适应不同的船型苇片。 以下是双簧管和英国管的参考参数。 . | 乐器 | 中分器长度 | 中分器直径 | . | 双簧管 | 76mm | 10.0mm | . | 英国管 | 93mm | 13.7mm | . 打印建议 . | 使用低于 0.12mm 的层高，以确保螺纹配合良好。 | . 组装 . 将两个中分器侧盖分别旋入中分器主体的两端即可。 . ",
+    "url": "/zh-cn/oboe/cane-easel/#%E5%88%B6%E4%BD%9C%E6%8C%87%E5%8D%97",
+    
+    "relUrl": "/zh-cn/oboe/cane-easel/#制作指南"
+  },"18": {
+    "doc": "哨片中分器",
+    "title": "相关链接",
+    "content": "资源 . GitHub 仓库 MakerWorld 全球站 MakerWorld 中国站 . ",
+    "url": "/zh-cn/oboe/cane-easel/#%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5",
+    
+    "relUrl": "/zh-cn/oboe/cane-easel/#相关链接"
+  },"19": {
+    "doc": "哨片中分器",
+    "title": "哨片中分器",
+    "content": " ",
+    "url": "/zh-cn/oboe/cane-easel/",
+    
+    "relUrl": "/zh-cn/oboe/cane-easel/"
+  },"20": {
+    "doc": "Bassoon",
+    "title": "Bassoon",
+    "content": " ",
+    "url": "/bassoon/",
+    
+    "relUrl": "/bassoon/"
+  },"21": {
+    "doc": "巴松",
+    "title": "巴松管",
+    "content": " ",
+    "url": "/zh-cn/bassoon/#%E5%B7%B4%E6%9D%BE%E7%AE%A1",
+    
+    "relUrl": "/zh-cn/bassoon/#巴松管"
+  },"22": {
+    "doc": "巴松",
+    "title": "巴松",
+    "content": " ",
+    "url": "/zh-cn/bassoon/",
+    
+    "relUrl": "/zh-cn/bassoon/"
+  },"23": {
+    "doc": "英国管",
+    "title": "英国管",
+    "content": " ",
+    "url": "/zh-cn/english-horn/",
+    
+    "relUrl": "/zh-cn/english-horn/"
+  },"24": {
+    "doc": "English Horn",
+    "title": "English Horn",
+    "content": " ",
+    "url": "/english-horn/",
+    
+    "relUrl": "/english-horn/"
+  },"25": {
+    "doc": "双簧管",
+    "title": "双簧管",
+    "content": " ",
+    "url": "/zh-cn/oboe/",
+    
+    "relUrl": "/zh-cn/oboe/"
+  },"26": {
+    "doc": "首页",
+    "title": "OpenReed",
+    "content": " ",
+    "url": "/zh-cn/#openreed",
+    
+    "relUrl": "/zh-cn/#openreed"
+  },"27": {
+    "doc": "首页",
+    "title": "关于我们",
+    "content": "OpenReed 是一个开源项目，专注于为双簧乐器（双簧管、英国管、巴松管）提供 3D 打印的工具、机器和配件，强调易获取性和低成本。 . 项目目标 . | 易获取：让双簧乐器学习者和演奏者都能轻松获得所需工具 | 低成本：通过 3D 打印部件与标准五金件相结合，最大程度降低成本 | 开源共享：为双簧乐器社区自由分享设计与知识 | . 设计理念 . | 开源：所有设计均使用开源工具创建，并向社区公开分享。 | 脚本驱动：设计由代码定义而非手动 CAD 操作，实现可复现性和有效的版本控制。 | 参数化：模型使用可调参数构建，因此一个脚本可以为不同乐器、尺寸或打印机生成变体。 | . OpenReed 主要使用 OpenSCAD 和 Python 进行设计和开发。 . ",
+    "url": "/zh-cn/#%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC",
+    
+    "relUrl": "/zh-cn/#关于我们"
+  },"28": {
+    "doc": "首页",
+    "title": "获取我们的产品",
+    "content": "您可以通过以下两种方式获取 OpenReed 产品： . | 自己动手制作：打印零件并自行组装产品。通过导航栏访问产品页面，按照制作指南操作。 . | 购买成品：从我们的店铺购买即用型产品。每一笔购买都有助于支持本项目 🤗。 . | . ",
+    "url": "/zh-cn/#%E8%8E%B7%E5%8F%96%E6%88%91%E4%BB%AC%E7%9A%84%E4%BA%A7%E5%93%81",
+    
+    "relUrl": "/zh-cn/#获取我们的产品"
+  },"29": {
+    "doc": "首页",
+    "title": "相关链接",
+    "content": "资源 . GitHub MakerWorld 全球站 MakerWorld 中国站 . 店铺 . 淘宝店铺 . ",
+    "url": "/zh-cn/#%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5",
+    
+    "relUrl": "/zh-cn/#相关链接"
+  },"30": {
+    "doc": "首页",
+    "title": "首页",
+    "content": " ",
+    "url": "/zh-cn/",
+    
+    "relUrl": "/zh-cn/"
+  },"31": {
+    "doc": "Oboe",
+    "title": "Oboe",
+    "content": " ",
+    "url": "/oboe/",
+    
+    "relUrl": "/oboe/"
+  },"32": {
+    "doc": "Home",
+    "title": "OpenReed",
+    "content": " ",
+    "url": "/#openreed",
+    
+    "relUrl": "/#openreed"
+  },"33": {
+    "doc": "Home",
+    "title": "About Us",
+    "content": "OpenReed is an open-source initiative focused on 3D-printed tools, machines, and accessories for double reed instruments, emphasizing accessibility and affordability. Project Goals . | Accessibility: Make double reed tools easily available to learners and musicians | Affordability: Minimize costs by combining 3D-printed parts with standard hardware | Open Source: Freely share designs and knowledge for the benefit of the double reed community | . Design Philosophy . | Open-Source: Every design is created using open-source tools and shared openly with the community. | Script-Based: Designs are defined by code rather than manual CAD operations, enabling reproducibility and effective version control. | Parametric: Models are built with adjustable parameters, so one script can generate variants for different instruments, sizes, or printers. | . OpenReed primarily relies on OpenSCAD and Python for design and development. ",
+    "url": "/#about-us",
+    
+    "relUrl": "/#about-us"
+  },"34": {
+    "doc": "Home",
+    "title": "Getting Our Products",
+    "content": "You can obtain OpenReed products in one of two ways: . | Build It Yourself: Print the parts and assemble the product yourself. Visit the product pages through the navigation bar and follow the build guide. | Buy a Prebuilt Unit: Purchase a ready-to-use product from our stores. Every purchase helps support the project 🤗. | . ",
+    "url": "/#getting-our-products",
+    
+    "relUrl": "/#getting-our-products"
+  },"35": {
+    "doc": "Home",
+    "title": "Links",
+    "content": "Resources . GitHub MakerWorld Global MakerWorld CN . Stores . Taobao Store . ",
+    "url": "/#links",
+    
+    "relUrl": "/#links"
+  },"36": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"37": {
+    "doc": "哨片晾哨架",
+    "title": "巴松哨片晾哨架",
+    "content": " ",
+    "url": "/zh-cn/bassoon/reed-drying-rack/#%E5%B7%B4%E6%9D%BE%E5%93%A8%E7%89%87%E6%99%BE%E5%93%A8%E6%9E%B6",
+    
+    "relUrl": "/zh-cn/bassoon/reed-drying-rack/#巴松哨片晾哨架"
+  },"38": {
+    "doc": "哨片晾哨架",
+    "title": "简介",
+    "content": "哨片晾哨架（或称哨片晾哨板）专为哨片制作者设计，用于放置和晾干已绑好的和已刮削的哨片。 . ",
+    "url": "/zh-cn/bassoon/reed-drying-rack/#%E7%AE%80%E4%BB%8B",
+    
+    "relUrl": "/zh-cn/bassoon/reed-drying-rack/#简介"
+  },"39": {
+    "doc": "哨片晾哨架",
+    "title": "制作指南",
+    "content": "物料清单 . 打印零件 . | 哨片晾哨架 $\\times$ 1 | . 打印零件 . 生成 3D 文件 . | 来源 | 说明 | . | GitHub 仓库 | 从 protruding-reed-rack.scad 生成 3D 文件。 | . | MakerWorld 全球站 | 在 MakerWorld 全球站网页上生成 3D 文件。 | . | MakerWorld 中国站 | 在 MakerWorld 中国站网页上生成 3D 文件。 | . 打印建议 . | 使用较大的层高以加强哨片锥的强度。 | . ",
+    "url": "/zh-cn/bassoon/reed-drying-rack/#%E5%88%B6%E4%BD%9C%E6%8C%87%E5%8D%97",
+    
+    "relUrl": "/zh-cn/bassoon/reed-drying-rack/#制作指南"
+  },"40": {
+    "doc": "哨片晾哨架",
+    "title": "相关链接",
+    "content": "资源 . GitHub 仓库 MakerWorld 全球站 MakerWorld 中国站 . ",
+    "url": "/zh-cn/bassoon/reed-drying-rack/#%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5",
+    
+    "relUrl": "/zh-cn/bassoon/reed-drying-rack/#相关链接"
+  },"41": {
+    "doc": "哨片晾哨架",
+    "title": "哨片晾哨架",
+    "content": " ",
+    "url": "/zh-cn/bassoon/reed-drying-rack/",
+    
+    "relUrl": "/zh-cn/bassoon/reed-drying-rack/"
+  },"42": {
+    "doc": "Reed Drying Rack",
+    "title": "Reed Drying Rack for English Horn",
+    "content": " ",
+    "url": "/english-horn/reed-drying-rack/#reed-drying-rack-for-english-horn",
+    
+    "relUrl": "/english-horn/reed-drying-rack/#reed-drying-rack-for-english-horn"
+  },"43": {
+    "doc": "Reed Drying Rack",
+    "title": "Description",
+    "content": "The reed drying rack (or reed drying board) is designed for reed makers to place and dry wrapped blanks and scraped reeds. ",
+    "url": "/english-horn/reed-drying-rack/#description",
+    
+    "relUrl": "/english-horn/reed-drying-rack/#description"
+  },"44": {
+    "doc": "Reed Drying Rack",
+    "title": "Build Guide",
+    "content": "Bill of Materials . Printed Parts . | Reed drying rack $\\times$ 1 | . Printing the Parts . Generating 3D Files . | Source | Description | . | GitHub Repository | Generate the 3D file from protruding-reed-rack.scad. | . | MakerWorld Global | Generate the 3D file on MakerWorld Global webpage. | . | MakerWorld CN | Generate the 3D file on MakerWorld CN webpage. | . Printing Tips . | Use a large layer height to strengthen the staple. | . ",
+    "url": "/english-horn/reed-drying-rack/#build-guide",
+    
+    "relUrl": "/english-horn/reed-drying-rack/#build-guide"
+  },"45": {
+    "doc": "Reed Drying Rack",
+    "title": "Links",
+    "content": "Resources . GitHub Repository MakerWorld Global Page MakerWorld CN Page . ",
+    "url": "/english-horn/reed-drying-rack/#links",
+    
+    "relUrl": "/english-horn/reed-drying-rack/#links"
+  },"46": {
+    "doc": "Reed Drying Rack",
+    "title": "Reed Drying Rack",
+    "content": " ",
+    "url": "/english-horn/reed-drying-rack/",
+    
+    "relUrl": "/english-horn/reed-drying-rack/"
+  },"47": {
+    "doc": "Reed Drying Rack",
+    "title": "Reed Drying Rack for Oboe",
+    "content": " ",
+    "url": "/oboe/reed-drying-rack/#reed-drying-rack-for-oboe",
+    
+    "relUrl": "/oboe/reed-drying-rack/#reed-drying-rack-for-oboe"
+  },"48": {
+    "doc": "Reed Drying Rack",
+    "title": "Description",
+    "content": "The reed drying rack (or reed drying board) is designed for reed makers to place and dry wrapped blanks and scraped reeds. Variants . Recessed Reed Rack . The recessed reed rack holds reeds by recessed holes. This type of rack is easy to store and carry, but it does not support bassoon reeds. Protruding Reed Rack . The protruding reed rack holds reeds by their exposed staples. This design accommodates oboe, English horn, and bassoon reeds (internal staple parameters may differ); however, due to the inherent limitations of FDM (Fused Deposition Modeling) 3D printing, the staples may be more susceptible to breakage. ",
+    "url": "/oboe/reed-drying-rack/#description",
+    
+    "relUrl": "/oboe/reed-drying-rack/#description"
+  },"49": {
+    "doc": "Reed Drying Rack",
+    "title": "Build Guide",
+    "content": "Bill of Materials . Printed Parts . | Reed drying rack $\\times$ 1 | . Printing the Parts . Generating 3D Files . | Source | Description | . | GitHub Repository | Generate the 3D file from recessed-reed-rack.scad or protruding-reed-rack.scad. | . | MakerWorld Global | Generate the 3D file on MakerWorld Global webpage. | . | MakerWorld CN | Generate the 3D file on MakerWorld CN webpage. | . Printing Tips . | Use a large layer height for the protruding reed rack to strengthen the staple. | . ",
+    "url": "/oboe/reed-drying-rack/#build-guide",
+    
+    "relUrl": "/oboe/reed-drying-rack/#build-guide"
+  },"50": {
+    "doc": "Reed Drying Rack",
+    "title": "Links",
+    "content": "Resources . GitHub Repository MakerWorld Global Page MakerWorld CN Page . ",
+    "url": "/oboe/reed-drying-rack/#links",
+    
+    "relUrl": "/oboe/reed-drying-rack/#links"
+  },"51": {
+    "doc": "Reed Drying Rack",
+    "title": "Reed Drying Rack",
+    "content": " ",
+    "url": "/oboe/reed-drying-rack/",
+    
+    "relUrl": "/oboe/reed-drying-rack/"
+  },"52": {
+    "doc": "Reed Drying Rack",
+    "title": "Reed Drying Rack for Bassoon",
+    "content": " ",
+    "url": "/bassoon/reed-drying-rack/#reed-drying-rack-for-bassoon",
+    
+    "relUrl": "/bassoon/reed-drying-rack/#reed-drying-rack-for-bassoon"
+  },"53": {
+    "doc": "Reed Drying Rack",
+    "title": "Description",
+    "content": "The reed drying rack (or reed drying board) is designed for reed makers to place and dry wrapped blanks and scraped reeds. ",
+    "url": "/bassoon/reed-drying-rack/#description",
+    
+    "relUrl": "/bassoon/reed-drying-rack/#description"
+  },"54": {
+    "doc": "Reed Drying Rack",
+    "title": "Build Guide",
+    "content": "Bill of Materials . Printed Parts . | Reed drying rack $\\times$ 1 | . Printing the Parts . Generating 3D Files . | Source | Description | . | GitHub Repository | Generate the 3D file from protruding-reed-rack.scad. | . | MakerWorld Global | Generate the 3D file on MakerWorld Global webpage. | . | MakerWorld CN | Generate the 3D file on MakerWorld CN webpage. | . Printing Tips . | Use a large layer height to strengthen the staple. | . ",
+    "url": "/bassoon/reed-drying-rack/#build-guide",
+    
+    "relUrl": "/bassoon/reed-drying-rack/#build-guide"
+  },"55": {
+    "doc": "Reed Drying Rack",
+    "title": "Links",
+    "content": "Resources . GitHub Repository MakerWorld Global Page MakerWorld CN Page . ",
+    "url": "/bassoon/reed-drying-rack/#links",
+    
+    "relUrl": "/bassoon/reed-drying-rack/#links"
+  },"56": {
+    "doc": "Reed Drying Rack",
+    "title": "Reed Drying Rack",
+    "content": " ",
+    "url": "/bassoon/reed-drying-rack/",
+    
+    "relUrl": "/bassoon/reed-drying-rack/"
+  },"57": {
+    "doc": "哨片晾哨架",
+    "title": "英国管哨片晾哨架",
+    "content": " ",
+    "url": "/zh-cn/english-horn/reed-drying-rack/#%E8%8B%B1%E5%9B%BD%E7%AE%A1%E5%93%A8%E7%89%87%E6%99%BE%E5%93%A8%E6%9E%B6",
+    
+    "relUrl": "/zh-cn/english-horn/reed-drying-rack/#英国管哨片晾哨架"
+  },"58": {
+    "doc": "哨片晾哨架",
+    "title": "简介",
+    "content": "哨片晾哨架（或称哨片晾哨板）专为哨片制作者设计，用于放置和晾干已绑好的和已刮削的哨片。 . ",
+    "url": "/zh-cn/english-horn/reed-drying-rack/#%E7%AE%80%E4%BB%8B",
+    
+    "relUrl": "/zh-cn/english-horn/reed-drying-rack/#简介"
+  },"59": {
+    "doc": "哨片晾哨架",
+    "title": "制作指南",
+    "content": "物料清单 . 打印零件 . | 哨片晾哨架 $\\times$ 1 | . 打印零件 . 生成 3D 文件 . | 来源 | 说明 | . | GitHub 仓库 | 从 protruding-reed-rack.scad 生成 3D 文件。 | . | MakerWorld 全球站 | 在 MakerWorld 全球站网页上生成 3D 文件。 | . | MakerWorld 中国站 | 在 MakerWorld 中国站网页上生成 3D 文件。 | . 打印建议 . | 使用较大的层高以加强哨片锥的强度。 | . ",
+    "url": "/zh-cn/english-horn/reed-drying-rack/#%E5%88%B6%E4%BD%9C%E6%8C%87%E5%8D%97",
+    
+    "relUrl": "/zh-cn/english-horn/reed-drying-rack/#制作指南"
+  },"60": {
+    "doc": "哨片晾哨架",
+    "title": "相关链接",
+    "content": "资源 . GitHub 仓库 MakerWorld 全球站 MakerWorld 中国站 . ",
+    "url": "/zh-cn/english-horn/reed-drying-rack/#%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5",
+    
+    "relUrl": "/zh-cn/english-horn/reed-drying-rack/#相关链接"
+  },"61": {
+    "doc": "哨片晾哨架",
+    "title": "哨片晾哨架",
+    "content": " ",
+    "url": "/zh-cn/english-horn/reed-drying-rack/",
+    
+    "relUrl": "/zh-cn/english-horn/reed-drying-rack/"
+  },"62": {
+    "doc": "哨片晾哨架",
+    "title": "双簧管哨片晾哨架",
+    "content": " ",
+    "url": "/zh-cn/oboe/reed-drying-rack/#%E5%8F%8C%E7%B0%A7%E7%AE%A1%E5%93%A8%E7%89%87%E6%99%BE%E5%93%A8%E6%9E%B6",
+    
+    "relUrl": "/zh-cn/oboe/reed-drying-rack/#双簧管哨片晾哨架"
+  },"63": {
+    "doc": "哨片晾哨架",
+    "title": "简介",
+    "content": "哨片晾哨架（或称哨片晾哨板）专为哨片制作者设计，用于放置和晾干已绑好的和已刮削的哨片。 . 种类 . 内嵌式晾哨架 . 内嵌式晾哨架通过内嵌的哨座槽放置哨片。这种晾哨架便于存放和携带，但不支持巴松哨片。 . 伸出式晾哨架 . 伸出式晾哨架通过哨座锥固定哨片。这种设计兼容双簧管、英国管、巴松哨片（不同种类的哨片哨座参数可能不同），但受限于 FDM 3D 打印的特性，哨座锥可能容易断裂。 . ",
+    "url": "/zh-cn/oboe/reed-drying-rack/#%E7%AE%80%E4%BB%8B",
+    
+    "relUrl": "/zh-cn/oboe/reed-drying-rack/#简介"
+  },"64": {
+    "doc": "哨片晾哨架",
+    "title": "制作指南",
+    "content": "物料清单 . 打印零件 . | 哨片晾哨架 $\\times$ 1 | . 打印零件 . 生成 3D 文件 . | 来源 | 说明 | . | GitHub 仓库 | 从 recessed-reed-rack.scad 或 protruding-reed-rack.scad 生成 3D 文件。 | . | MakerWorld 全球站 | 在 MakerWorld 全球站网页上生成 3D 文件。 | . | MakerWorld 中国站 | 在 MakerWorld 中国站网页上生成 3D 文件。 | . 打印建议 . | 对于伸出式哨片架，使用较大的层高以加强插柱的强度。 | . ",
+    "url": "/zh-cn/oboe/reed-drying-rack/#%E5%88%B6%E4%BD%9C%E6%8C%87%E5%8D%97",
+    
+    "relUrl": "/zh-cn/oboe/reed-drying-rack/#制作指南"
+  },"65": {
+    "doc": "哨片晾哨架",
+    "title": "相关链接",
+    "content": "资源 . GitHub 仓库 MakerWorld 全球站 MakerWorld 中国站 . ",
+    "url": "/zh-cn/oboe/reed-drying-rack/#%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5",
+    
+    "relUrl": "/zh-cn/oboe/reed-drying-rack/#相关链接"
+  },"66": {
+    "doc": "哨片晾哨架",
+    "title": "哨片晾哨架",
+    "content": " ",
+    "url": "/zh-cn/oboe/reed-drying-rack/",
+    
+    "relUrl": "/zh-cn/oboe/reed-drying-rack/"
+  }
+}

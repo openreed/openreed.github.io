@@ -1,0 +1,45 @@
+<nav class="toc" id="toc" aria-label="Table of contents">
+  <div class="toc-header">On this page</div>
+  <ul class="toc-list" id="toc-list"></ul>
+</nav>
+
+<script>
+(function(){
+  function buildToc() {
+    var list = document.getElementById('toc-list');
+    if (!list) return;
+    var main = document.querySelector('#main-content');
+    if (!main) return;
+    var headings = main.querySelectorAll('h2, h3, h4');
+    var items = [];
+    headings.forEach(function(h){
+      if (h.closest('.children-nav')) return;
+      if (!h.id) return;
+      items.push({ level: h.tagName.toLowerCase(), id: h.id, text: h.textContent.trim() });
+    });
+    if (!items.length) { document.getElementById('toc').style.display = 'none'; return; }
+    var html = '';
+    items.forEach(function(item){
+      html += '<li class="toc-item toc-' + item.level + '"><a href="#' + item.id + '" class="toc-link">' + item.text + '</a></li>';
+    });
+    list.innerHTML = html;
+    var links = list.querySelectorAll('.toc-link');
+    var obs = new IntersectionObserver(function(entries){
+      entries.forEach(function(entry){
+        var link = list.querySelector('a[href="#' + entry.target.id + '"]');
+        if (!link) return;
+        if (entry.isIntersecting) {
+          links.forEach(function(l){ l.classList.remove('active'); });
+          link.classList.add('active');
+        }
+      });
+    }, { rootMargin: '-80px 0px -60% 0px' });
+    items.forEach(function(item){
+      var el = document.getElementById(item.id);
+      if (el) obs.observe(el);
+    });
+  }
+  if (document.readyState === 'complete') { buildToc(); }
+  else { window.addEventListener('load', buildToc); }
+})();
+</script>

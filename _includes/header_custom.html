@@ -1,0 +1,20 @@
+<div class="lang-switch-dropdown">
+  <button class="lang-switch-btn" type="button" aria-label="语言选择">
+    {% if page.url contains '/zh-cn/' %}
+      <span class="lang-label">中文</span>
+    {% else %}
+      <span class="lang-label">English</span>
+    {% endif %}
+    <svg class="lang-dropdown-icon" width="16" height="16" viewBox="0 0 16 16" fill="none">
+      <path d="M4 6L8 10L12 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </button>
+  <div class="lang-dropdown-menu">
+    <a href="{{ '/' | relative_url }}" class="lang-dropdown-item" data-lang="en">
+      English
+    </a>
+    <a href="{{ '/zh-cn/' | relative_url }}" class="lang-dropdown-item" data-lang="zh">
+      中文
+    </a>
+  </div>
+</div>

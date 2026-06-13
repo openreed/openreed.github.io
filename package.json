@@ -1,0 +1,8 @@
+{
+  "name": "openreed.github.io",
+  "version": "1.0.0",
+  "description": "OpenReed - 开源3D打印双簧乐器配件项目",
+  "repository": "openreed/openreed.github.io",
+  "license": "MIT",
+  "private": true
+}

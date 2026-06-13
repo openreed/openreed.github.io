@@ -1,0 +1,24 @@
+// 自定义导航栏宽度
+$nav-width: 14rem;
+$nav-width-md: 9rem;
+
+// ============================================================
+// OpenReed 配色 — 黑白为主，芦苇金作点缀色
+// 源自 logo/color.py 的色调板
+// ============================================================
+
+// 芦苇色板（供 custom.scss 引用）
+$reed-cream-lightest: #F8F4E8;
+$reed-cream: #F1E9D2;
+$reed-logo-light: #E7D9AF;
+$reed-pale-gold: #DCCB8F;
+$reed-logo-dark: #D2BA7B;
+$reed-golden-brown: #C3A768;
+$reed-dark-gold: #AA8C4F;
+$reed-brown: #8C7240;
+$reed-dark-brown: #6B5633;
+$reed-very-dark-brown: #4A3A22;
+
+// 仅覆盖重点点缀色，其余保持主题默认（黑白灰）
+$link-color: $reed-dark-gold;
+$btn-primary-color: $reed-logo-dark;

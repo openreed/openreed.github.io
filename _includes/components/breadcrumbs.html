@@ -1,0 +1,74 @@
+{%- comment -%}
+  Override: passes current language to site_nav.html for language-independent nav.
+{%- endcomment -%}
+
+{%- if page.url contains '/zh-cn/' -%}
+  {%- assign lang_param = 'zh' -%}
+{%- else -%}
+  {%- assign lang_param = 'en' -%}
+{%- endif -%}
+
+{%- if page.url != "/" and page.parent and page.title -%}
+
+{%- capture site_nav -%}
+{%- include_cached components/site_nav.html all=true lang=lang_param -%}
+{%- endcapture -%}
+
+{%- capture nav_list_link -%}
+<a href="{{ page.url | relative_url }}" class="nav-list-link">
+{%- endcapture -%}
+
+{%- capture nav_list_simple -%}
+<ul class="nav-list">
+{%- endcapture -%}
+
+{%- capture nav_list_link_class %} class="nav-list-link">
+{%- endcapture -%}
+
+{%- capture nav_category -%}
+<div class="nav-category">
+{%- endcapture -%}
+
+{%- assign nav_anchor_splits =
+      site_nav | split: nav_list_link |
+      first | split: nav_category |
+      last | split: "</a>" -%}
+
+{%- assign nav_breadcrumbs = "" | split: "" -%}
+{%- assign nav_split = nav_anchor_splits -%}
+{%- assign nav_split_next = nav_split | slice: 1 -%}
+
+{%- for nav_anchor in nav_anchor_splits -%}
+  {%- if nav_split_next and nav_split_next.size > 1
+        and nav_split_next.first contains nav_list_simple -%}
+
+    {%- assign nav_breadcrumb_link = nav_anchor | append: "</a>" -%}
+    {%- assign nav_breadcrumbs = nav_breadcrumbs | push: nav_breadcrumb_link -%}
+
+  {%- endif -%}
+
+  {%- assign nav_split = nav_split | slice: 1 -%}
+  {%- assign nav_split_next = nav_split | slice: 1 -%}
+
+  {%- assign nav_list_end_less = nav_anchor | split: "</ul>" -%}
+  {%- assign nav_list_end_count = nav_list_end_less.size | minus: 1 -%}
+  {%- if nav_list_end_count > 0 -%}
+    {%- assign nav_end_index = nav_breadcrumbs.size | minus: nav_list_end_count -%}
+    {%- if nav_end_index > 0 -%}
+      {%- assign nav_breadcrumbs = nav_breadcrumbs | slice: 0, nav_end_index -%}
+    {%- else -%}
+      {%- assign nav_breadcrumbs = "" | split: "" -%}
+    {%- endif -%}
+  {%- endif -%}
+
+{%- endfor -%}
+
+<p class="text-small text-grey-dk-000 mb-0 pt-1">
+  {%- for nav_breadcrumb in nav_breadcrumbs -%}
+    {{ nav_breadcrumb }}
+    <span aria-hidden="true">/</span>
+  {%- endfor -%}
+  {{ page.title }}
+</p>
+
+{%- endif -%}
