@@ -58,8 +58,8 @@ OpenReed 哨片切割器具有以下特点：
 | 来源 | 说明 |
 |---------|-------------|
 | [GitHub 仓库](https://github.com/openreed/reed-guillotine) | 从源代码生成 3D 文件。您可能需要在系统上安装 [OpenSCAD](https://www.openscad.org/) 和 [Python](https://www.python.org/)。 |
-| [MakerWorld 全球版](https://makerworld.com/en/models/) | 在 MakerWorld 全球版网页上下载预生成的 `.3mf` 文件。 |
-| [MakerWorld 中文版](https://makerworld.com.cn/zh/models/) | 在 MakerWorld 中文版网页上下载预生成的 `.3mf` 文件。 |
+| [MakerWorld 全球站](https://makerworld.com/en/models/2970069-reed-guillotine-for-oboe-and-english-horn#profileId-3330683) | 在 MakerWorld 全球版网页上下载预生成的 `.3mf` 文件。 |
+| [MakerWorld 中国站](https://makerworld.com.cn/zh/models/2660993-shuang-huang-guan-ying-guo-guan-shao-pian-duan-tou#profileId-3076026) | 在 MakerWorld 中文版网页上下载预生成的 `.3mf` 文件。 |
 
 
 #### 打印建议
@@ -158,3 +158,7 @@ OpenReed 哨片切割器具有以下特点：
 
 ## 相关链接
 <a href="https://github.com/openreed/reed-guillotine" class="btn btn-github fs-5 mb-4 mb-md-0 mr-2">GitHub 仓库</a>
+
+<a href="https://makerworld.com/en/models/2970069-reed-guillotine-for-oboe-and-english-horn#profileId-3330683" class="btn btn-makerworld fs-5 mb-4 mb-md-0 mr-2">MakerWorld 全球站</a>
+
+<a href="https://makerworld.com.cn/zh/models/2660993-shuang-huang-guan-ying-guo-guan-shao-pian-duan-tou#profileId-3076026" class="btn btn-makerworld fs-5 mb-4 mb-md-0 mr-2">MakerWorld 中国站</a>
