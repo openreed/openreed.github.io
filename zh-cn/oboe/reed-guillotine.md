@@ -156,5 +156,5 @@ OpenReed 哨片切割器具有以下特点：
 
 
 
-## 链接
+## 相关链接
 <a href="https://github.com/openreed/reed-guillotine" class="btn btn-github fs-5 mb-4 mb-md-0 mr-2">GitHub 仓库</a>
