@@ -1,262 +1,262 @@
 {"0": {
-    "doc": "Cane Easel",
-    "title": "Cane Easel for Oboe",
-    "content": " ",
-    "url": "/oboe/cane-easel/#cane-easel-for-oboe",
-    
-    "relUrl": "/oboe/cane-easel/#cane-easel-for-oboe"
-  },"1": {
-    "doc": "Cane Easel",
-    "title": "Description",
-    "content": "The cane easel is used for marking the center of the cane and providing support when shaving the end of the cane. ",
-    "url": "/oboe/cane-easel/#description",
-    
-    "relUrl": "/oboe/cane-easel/#description"
-  },"2": {
-    "doc": "Cane Easel",
-    "title": "Build Guide",
-    "content": "Bill of Materials . Printed Parts . | Easel body $\\times$ 1 | Easel lid $\\times$ 2 | . Printing the Parts . Generating 3D Files . | Source | Description | . | GitHub Repository | Generate the 3D file from cane-easel.scad. | . | MakerWorld Global | Generate the 3D file on MakerWorld Global webpage. | . | MakerWorld CN | Generate the 3D file on MakerWorld CN webpage. | . Customization . The cane easel is fully parametric and can be customized by modifying the parameters in cane-easel.scad. You can edit them to fit different instruments. Reference parameters for oboe and English horn are given below. | Instrument | Easel Length | Easel Diameter | . | Oboe | 76mm | 10.0mm | . | English Horn | 93mm | 13.7mm | . Printing Tips . | Use a layer height lower than 0.12mm to make sure the screw fits well. | . Assembly . Simply screw the two easel lids onto each side of the easel body. ",
-    "url": "/oboe/cane-easel/#build-guide",
-    
-    "relUrl": "/oboe/cane-easel/#build-guide"
-  },"3": {
-    "doc": "Cane Easel",
-    "title": "Links",
-    "content": "Resources . GitHub Repository MakerWorld Global Page MakerWorld CN Page . ",
-    "url": "/oboe/cane-easel/#links",
-    
-    "relUrl": "/oboe/cane-easel/#links"
-  },"4": {
-    "doc": "Cane Easel",
-    "title": "Cane Easel",
-    "content": " ",
-    "url": "/oboe/cane-easel/",
-    
-    "relUrl": "/oboe/cane-easel/"
-  },"5": {
-    "doc": "Cane Easel",
-    "title": "Cane Easel for English Horn",
-    "content": " ",
-    "url": "/english-horn/cane-easel/#cane-easel-for-english-horn",
-    
-    "relUrl": "/english-horn/cane-easel/#cane-easel-for-english-horn"
-  },"6": {
-    "doc": "Cane Easel",
-    "title": "Description",
-    "content": "The cane easel is used for marking the center of the cane and providing support when shaving the end of the cane. ",
-    "url": "/english-horn/cane-easel/#description",
-    
-    "relUrl": "/english-horn/cane-easel/#description"
-  },"7": {
-    "doc": "Cane Easel",
-    "title": "Build Guide",
-    "content": "Bill of Materials . Printed Parts . | Easel body $\\times$ 1 | Easel lid $\\times$ 2 | . Printing the Parts . Generating 3D Files . | Source | Description | . | GitHub Repository | Generate the 3D file from cane-easel.scad. | . | MakerWorld Global | Generate the 3D file on MakerWorld Global webpage. | . | MakerWorld CN | Generate the 3D file on MakerWorld CN webpage. | . Customization . The cane easel is fully parametric and can be customized by modifying the parameters in cane-easel.scad. You can edit them to fit different instruments. Reference parameters for oboe and English horn are given below. | Instrument | Easel Length | Easel Diameter | . | Oboe | 76mm | 10.0mm | . | English Horn | 93mm | 13.7mm | . Printing Tips . | Use a layer height lower than 0.12mm to make sure the screw fits well. | . Assembly . Simply screw the two easel lids onto each side of the easel body. ",
-    "url": "/english-horn/cane-easel/#build-guide",
-    
-    "relUrl": "/english-horn/cane-easel/#build-guide"
-  },"8": {
-    "doc": "Cane Easel",
-    "title": "Links",
-    "content": "Resources . GitHub Repository MakerWorld Global Page MakerWorld CN Page . ",
-    "url": "/english-horn/cane-easel/#links",
-    
-    "relUrl": "/english-horn/cane-easel/#links"
-  },"9": {
-    "doc": "Cane Easel",
-    "title": "Cane Easel",
-    "content": " ",
-    "url": "/english-horn/cane-easel/",
-    
-    "relUrl": "/english-horn/cane-easel/"
-  },"10": {
     "doc": "哨片中分器",
     "title": "英国管哨片中分器",
     "content": " ",
     "url": "/zh-cn/english-horn/cane-easel/#%E8%8B%B1%E5%9B%BD%E7%AE%A1%E5%93%A8%E7%89%87%E4%B8%AD%E5%88%86%E5%99%A8",
     
     "relUrl": "/zh-cn/english-horn/cane-easel/#英国管哨片中分器"
-  },"11": {
+  },"1": {
     "doc": "哨片中分器",
     "title": "简介",
     "content": "哨片中分器用于标记苇片的中心线，并在刮削苇片末端时提供支撑。 . ",
     "url": "/zh-cn/english-horn/cane-easel/#%E7%AE%80%E4%BB%8B",
     
     "relUrl": "/zh-cn/english-horn/cane-easel/#简介"
-  },"12": {
+  },"2": {
     "doc": "哨片中分器",
     "title": "制作指南",
     "content": "物料清单 . 打印零件 . | 中分器主体 $\\times$ 1 | 中分器侧盖 $\\times$ 2 | . 打印零件 . 生成 3D 文件 . | 来源 | 说明 | . | GitHub 仓库 | 从 cane-easel.scad 生成 3D 文件。 | . | MakerWorld 全球站 | 在 MakerWorld 全球站网页上生成 3D 文件。 | . | MakerWorld 中国站 | 在 MakerWorld 中国站网页上生成 3D 文件。 | . 定制 . 苇片中分器完全参数化，可以通过修改 cane-easel.scad 中的参数进行定制。 您可以编辑参数以适应不同的船型苇片。 以下是双簧管和英国管的参考参数。 . | 乐器 | 中分器长度 | 中分器直径 | . | 双簧管 | 76mm | 10.0mm | . | 英国管 | 93mm | 13.7mm | . 打印建议 . | 使用低于 0.12mm 的层高，以确保螺纹配合良好。 | . 组装 . 将两个中分器侧盖分别旋入中分器主体的两端即可。 . ",
     "url": "/zh-cn/english-horn/cane-easel/#%E5%88%B6%E4%BD%9C%E6%8C%87%E5%8D%97",
     
     "relUrl": "/zh-cn/english-horn/cane-easel/#制作指南"
-  },"13": {
+  },"3": {
     "doc": "哨片中分器",
     "title": "相关链接",
     "content": "资源 . GitHub 仓库 MakerWorld 全球站 MakerWorld 中国站 . ",
     "url": "/zh-cn/english-horn/cane-easel/#%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5",
     
     "relUrl": "/zh-cn/english-horn/cane-easel/#相关链接"
-  },"14": {
+  },"4": {
     "doc": "哨片中分器",
     "title": "哨片中分器",
     "content": " ",
     "url": "/zh-cn/english-horn/cane-easel/",
     
     "relUrl": "/zh-cn/english-horn/cane-easel/"
-  },"15": {
+  },"5": {
     "doc": "哨片中分器",
     "title": "双簧管哨片中分器",
     "content": " ",
     "url": "/zh-cn/oboe/cane-easel/#%E5%8F%8C%E7%B0%A7%E7%AE%A1%E5%93%A8%E7%89%87%E4%B8%AD%E5%88%86%E5%99%A8",
     
     "relUrl": "/zh-cn/oboe/cane-easel/#双簧管哨片中分器"
-  },"16": {
+  },"6": {
     "doc": "哨片中分器",
     "title": "简介",
     "content": "哨片中分器用于标记苇片的中心线，并在刮削苇片末端时提供支撑。 . ",
     "url": "/zh-cn/oboe/cane-easel/#%E7%AE%80%E4%BB%8B",
     
     "relUrl": "/zh-cn/oboe/cane-easel/#简介"
-  },"17": {
+  },"7": {
     "doc": "哨片中分器",
     "title": "制作指南",
     "content": "物料清单 . 打印零件 . | 中分器主体 $\\times$ 1 | 中分器侧盖 $\\times$ 2 | . 打印零件 . 生成 3D 文件 . | 来源 | 说明 | . | GitHub 仓库 | 从 cane-easel.scad 生成 3D 文件。 | . | MakerWorld 全球站 | 在 MakerWorld 全球站网页上生成 3D 文件。 | . | MakerWorld 中国站 | 在 MakerWorld 中国站网页上生成 3D 文件。 | . 定制 . 哨片中分器完全参数化，可以通过修改 cane-easel.scad 中的参数进行定制。 您可以编辑参数以适应不同的船型苇片。 以下是双簧管和英国管的参考参数。 . | 乐器 | 中分器长度 | 中分器直径 | . | 双簧管 | 76mm | 10.0mm | . | 英国管 | 93mm | 13.7mm | . 打印建议 . | 使用低于 0.12mm 的层高，以确保螺纹配合良好。 | . 组装 . 将两个中分器侧盖分别旋入中分器主体的两端即可。 . ",
     "url": "/zh-cn/oboe/cane-easel/#%E5%88%B6%E4%BD%9C%E6%8C%87%E5%8D%97",
     
     "relUrl": "/zh-cn/oboe/cane-easel/#制作指南"
-  },"18": {
+  },"8": {
     "doc": "哨片中分器",
     "title": "相关链接",
     "content": "资源 . GitHub 仓库 MakerWorld 全球站 MakerWorld 中国站 . ",
     "url": "/zh-cn/oboe/cane-easel/#%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5",
     
     "relUrl": "/zh-cn/oboe/cane-easel/#相关链接"
-  },"19": {
+  },"9": {
     "doc": "哨片中分器",
     "title": "哨片中分器",
     "content": " ",
     "url": "/zh-cn/oboe/cane-easel/",
     
     "relUrl": "/zh-cn/oboe/cane-easel/"
+  },"10": {
+    "doc": "Cane Easel",
+    "title": "Cane Easel for Oboe",
+    "content": " ",
+    "url": "/oboe/cane-easel/#cane-easel-for-oboe",
+    
+    "relUrl": "/oboe/cane-easel/#cane-easel-for-oboe"
+  },"11": {
+    "doc": "Cane Easel",
+    "title": "Description",
+    "content": "The cane easel is used for marking the center of the cane and providing support when shaving the end of the cane. ",
+    "url": "/oboe/cane-easel/#description",
+    
+    "relUrl": "/oboe/cane-easel/#description"
+  },"12": {
+    "doc": "Cane Easel",
+    "title": "Build Guide",
+    "content": "Bill of Materials . Printed Parts . | Easel body $\\times$ 1 | Easel lid $\\times$ 2 | . Printing the Parts . Generating 3D Files . | Source | Description | . | GitHub Repository | Generate the 3D file from cane-easel.scad. | . | MakerWorld Global | Generate the 3D file on MakerWorld Global webpage. | . | MakerWorld CN | Generate the 3D file on MakerWorld CN webpage. | . Customization . The cane easel is fully parametric and can be customized by modifying the parameters in cane-easel.scad. You can edit them to fit different instruments. Reference parameters for oboe and English horn are given below. | Instrument | Easel Length | Easel Diameter | . | Oboe | 76mm | 10.0mm | . | English Horn | 93mm | 13.7mm | . Printing Tips . | Use a layer height lower than 0.12mm to make sure the screw fits well. | . Assembly . Simply screw the two easel lids onto each side of the easel body. ",
+    "url": "/oboe/cane-easel/#build-guide",
+    
+    "relUrl": "/oboe/cane-easel/#build-guide"
+  },"13": {
+    "doc": "Cane Easel",
+    "title": "Links",
+    "content": "Resources . GitHub Repository MakerWorld Global Page MakerWorld CN Page . ",
+    "url": "/oboe/cane-easel/#links",
+    
+    "relUrl": "/oboe/cane-easel/#links"
+  },"14": {
+    "doc": "Cane Easel",
+    "title": "Cane Easel",
+    "content": " ",
+    "url": "/oboe/cane-easel/",
+    
+    "relUrl": "/oboe/cane-easel/"
+  },"15": {
+    "doc": "Cane Easel",
+    "title": "Cane Easel for English Horn",
+    "content": " ",
+    "url": "/english-horn/cane-easel/#cane-easel-for-english-horn",
+    
+    "relUrl": "/english-horn/cane-easel/#cane-easel-for-english-horn"
+  },"16": {
+    "doc": "Cane Easel",
+    "title": "Description",
+    "content": "The cane easel is used for marking the center of the cane and providing support when shaving the end of the cane. ",
+    "url": "/english-horn/cane-easel/#description",
+    
+    "relUrl": "/english-horn/cane-easel/#description"
+  },"17": {
+    "doc": "Cane Easel",
+    "title": "Build Guide",
+    "content": "Bill of Materials . Printed Parts . | Easel body $\\times$ 1 | Easel lid $\\times$ 2 | . Printing the Parts . Generating 3D Files . | Source | Description | . | GitHub Repository | Generate the 3D file from cane-easel.scad. | . | MakerWorld Global | Generate the 3D file on MakerWorld Global webpage. | . | MakerWorld CN | Generate the 3D file on MakerWorld CN webpage. | . Customization . The cane easel is fully parametric and can be customized by modifying the parameters in cane-easel.scad. You can edit them to fit different instruments. Reference parameters for oboe and English horn are given below. | Instrument | Easel Length | Easel Diameter | . | Oboe | 76mm | 10.0mm | . | English Horn | 93mm | 13.7mm | . Printing Tips . | Use a layer height lower than 0.12mm to make sure the screw fits well. | . Assembly . Simply screw the two easel lids onto each side of the easel body. ",
+    "url": "/english-horn/cane-easel/#build-guide",
+    
+    "relUrl": "/english-horn/cane-easel/#build-guide"
+  },"18": {
+    "doc": "Cane Easel",
+    "title": "Links",
+    "content": "Resources . GitHub Repository MakerWorld Global Page MakerWorld CN Page . ",
+    "url": "/english-horn/cane-easel/#links",
+    
+    "relUrl": "/english-horn/cane-easel/#links"
+  },"19": {
+    "doc": "Cane Easel",
+    "title": "Cane Easel",
+    "content": " ",
+    "url": "/english-horn/cane-easel/",
+    
+    "relUrl": "/english-horn/cane-easel/"
   },"20": {
-    "doc": "Bassoon",
-    "title": "Bassoon",
-    "content": " ",
-    "url": "/bassoon/",
-    
-    "relUrl": "/bassoon/"
-  },"21": {
-    "doc": "巴松",
-    "title": "巴松管",
-    "content": " ",
-    "url": "/zh-cn/bassoon/#%E5%B7%B4%E6%9D%BE%E7%AE%A1",
-    
-    "relUrl": "/zh-cn/bassoon/#巴松管"
-  },"22": {
-    "doc": "巴松",
-    "title": "巴松",
-    "content": " ",
-    "url": "/zh-cn/bassoon/",
-    
-    "relUrl": "/zh-cn/bassoon/"
-  },"23": {
-    "doc": "英国管",
-    "title": "英国管",
-    "content": " ",
-    "url": "/zh-cn/english-horn/",
-    
-    "relUrl": "/zh-cn/english-horn/"
-  },"24": {
-    "doc": "English Horn",
-    "title": "English Horn",
-    "content": " ",
-    "url": "/english-horn/",
-    
-    "relUrl": "/english-horn/"
-  },"25": {
-    "doc": "双簧管",
-    "title": "双簧管",
-    "content": " ",
-    "url": "/zh-cn/oboe/",
-    
-    "relUrl": "/zh-cn/oboe/"
-  },"26": {
-    "doc": "首页",
-    "title": "OpenReed",
-    "content": " ",
-    "url": "/zh-cn/#openreed",
-    
-    "relUrl": "/zh-cn/#openreed"
-  },"27": {
-    "doc": "首页",
-    "title": "关于我们",
-    "content": "OpenReed 是一个开源项目，专注于为双簧乐器（双簧管、英国管、巴松管）提供 3D 打印的工具、机器和配件，强调易获取性和低成本。 . 项目目标 . | 易获取：让双簧乐器学习者和演奏者都能轻松获得所需工具 | 低成本：通过 3D 打印部件与标准五金件相结合，最大程度降低成本 | 开源共享：为双簧乐器社区自由分享设计与知识 | . 设计理念 . | 开源：所有设计均使用开源工具创建，并向社区公开分享。 | 脚本驱动：设计由代码定义而非手动 CAD 操作，实现可复现性和有效的版本控制。 | 参数化：模型使用可调参数构建，因此一个脚本可以为不同乐器、尺寸或打印机生成变体。 | . OpenReed 主要使用 OpenSCAD 和 Python 进行设计和开发。 . ",
-    "url": "/zh-cn/#%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC",
-    
-    "relUrl": "/zh-cn/#关于我们"
-  },"28": {
-    "doc": "首页",
-    "title": "获取我们的产品",
-    "content": "您可以通过以下两种方式获取 OpenReed 产品： . | 自己动手制作：打印零件并自行组装产品。通过导航栏访问产品页面，按照制作指南操作。 . | 购买成品：从我们的店铺购买即用型产品。每一笔购买都有助于支持本项目 🤗。 . | . ",
-    "url": "/zh-cn/#%E8%8E%B7%E5%8F%96%E6%88%91%E4%BB%AC%E7%9A%84%E4%BA%A7%E5%93%81",
-    
-    "relUrl": "/zh-cn/#获取我们的产品"
-  },"29": {
-    "doc": "首页",
-    "title": "相关链接",
-    "content": "资源 . GitHub MakerWorld 全球站 MakerWorld 中国站 . 店铺 . 淘宝店铺 . ",
-    "url": "/zh-cn/#%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5",
-    
-    "relUrl": "/zh-cn/#相关链接"
-  },"30": {
-    "doc": "首页",
-    "title": "首页",
-    "content": " ",
-    "url": "/zh-cn/",
-    
-    "relUrl": "/zh-cn/"
-  },"31": {
-    "doc": "Oboe",
-    "title": "Oboe",
-    "content": " ",
-    "url": "/oboe/",
-    
-    "relUrl": "/oboe/"
-  },"32": {
     "doc": "Home",
     "title": "OpenReed",
     "content": " ",
     "url": "/#openreed",
     
     "relUrl": "/#openreed"
-  },"33": {
+  },"21": {
     "doc": "Home",
     "title": "About Us",
     "content": "OpenReed is an open-source initiative focused on 3D-printed tools, machines, and accessories for double reed instruments, emphasizing accessibility and affordability. Project Goals . | Accessibility: Make double reed tools easily available to learners and musicians | Affordability: Minimize costs by combining 3D-printed parts with standard hardware | Open Source: Freely share designs and knowledge for the benefit of the double reed community | . Design Philosophy . | Open-Source: Every design is created using open-source tools and shared openly with the community. | Script-Based: Designs are defined by code rather than manual CAD operations, enabling reproducibility and effective version control. | Parametric: Models are built with adjustable parameters, so one script can generate variants for different instruments, sizes, or printers. | . OpenReed primarily relies on OpenSCAD and Python for design and development. ",
     "url": "/#about-us",
     
     "relUrl": "/#about-us"
-  },"34": {
+  },"22": {
     "doc": "Home",
     "title": "Getting Our Products",
     "content": "You can obtain OpenReed products in one of two ways: . | Build It Yourself: Print the parts and assemble the product yourself. Visit the product pages through the navigation bar and follow the build guide. | Buy a Prebuilt Unit: Purchase a ready-to-use product from our stores. Every purchase helps support the project 🤗. | . ",
     "url": "/#getting-our-products",
     
     "relUrl": "/#getting-our-products"
-  },"35": {
+  },"23": {
     "doc": "Home",
     "title": "Links",
     "content": "Resources . GitHub MakerWorld Global MakerWorld CN . Stores . Taobao Store . ",
     "url": "/#links",
     
     "relUrl": "/#links"
-  },"36": {
+  },"24": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
+  },"25": {
+    "doc": "Bassoon",
+    "title": "Bassoon",
+    "content": " ",
+    "url": "/bassoon/",
+    
+    "relUrl": "/bassoon/"
+  },"26": {
+    "doc": "巴松",
+    "title": "巴松管",
+    "content": " ",
+    "url": "/zh-cn/bassoon/#%E5%B7%B4%E6%9D%BE%E7%AE%A1",
+    
+    "relUrl": "/zh-cn/bassoon/#巴松管"
+  },"27": {
+    "doc": "巴松",
+    "title": "巴松",
+    "content": " ",
+    "url": "/zh-cn/bassoon/",
+    
+    "relUrl": "/zh-cn/bassoon/"
+  },"28": {
+    "doc": "Oboe",
+    "title": "Oboe",
+    "content": " ",
+    "url": "/oboe/",
+    
+    "relUrl": "/oboe/"
+  },"29": {
+    "doc": "首页",
+    "title": "OpenReed",
+    "content": " ",
+    "url": "/zh-cn/#openreed",
+    
+    "relUrl": "/zh-cn/#openreed"
+  },"30": {
+    "doc": "首页",
+    "title": "关于我们",
+    "content": "OpenReed 是一个开源项目，专注于为双簧乐器（双簧管、英国管、巴松管）提供 3D 打印的工具、机器和配件，强调易获取性和低成本。 . 项目目标 . | 易获取：让双簧乐器学习者和演奏者都能轻松获得所需工具 | 低成本：通过 3D 打印部件与标准五金件相结合，最大程度降低成本 | 开源共享：为双簧乐器社区自由分享设计与知识 | . 设计理念 . | 开源：所有设计均使用开源工具创建，并向社区公开分享。 | 脚本驱动：设计由代码定义而非手动 CAD 操作，实现可复现性和有效的版本控制。 | 参数化：模型使用可调参数构建，因此一个脚本可以为不同乐器、尺寸或打印机生成变体。 | . OpenReed 主要使用 OpenSCAD 和 Python 进行设计和开发。 . ",
+    "url": "/zh-cn/#%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC",
+    
+    "relUrl": "/zh-cn/#关于我们"
+  },"31": {
+    "doc": "首页",
+    "title": "获取我们的产品",
+    "content": "您可以通过以下两种方式获取 OpenReed 产品： . | 自己动手制作：打印零件并自行组装产品。通过导航栏访问产品页面，按照制作指南操作。 . | 购买成品：从我们的店铺购买即用型产品。每一笔购买都有助于支持本项目 🤗。 . | . ",
+    "url": "/zh-cn/#%E8%8E%B7%E5%8F%96%E6%88%91%E4%BB%AC%E7%9A%84%E4%BA%A7%E5%93%81",
+    
+    "relUrl": "/zh-cn/#获取我们的产品"
+  },"32": {
+    "doc": "首页",
+    "title": "相关链接",
+    "content": "资源 . GitHub MakerWorld 全球站 MakerWorld 中国站 . 店铺 . 淘宝店铺 . ",
+    "url": "/zh-cn/#%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5",
+    
+    "relUrl": "/zh-cn/#相关链接"
+  },"33": {
+    "doc": "首页",
+    "title": "首页",
+    "content": " ",
+    "url": "/zh-cn/",
+    
+    "relUrl": "/zh-cn/"
+  },"34": {
+    "doc": "英国管",
+    "title": "英国管",
+    "content": " ",
+    "url": "/zh-cn/english-horn/",
+    
+    "relUrl": "/zh-cn/english-horn/"
+  },"35": {
+    "doc": "双簧管",
+    "title": "双簧管",
+    "content": " ",
+    "url": "/zh-cn/oboe/",
+    
+    "relUrl": "/zh-cn/oboe/"
+  },"36": {
+    "doc": "English Horn",
+    "title": "English Horn",
+    "content": " ",
+    "url": "/english-horn/",
+    
+    "relUrl": "/english-horn/"
   },"37": {
     "doc": "哨片晾哨架",
     "title": "巴松哨片晾哨架",
@@ -467,5 +467,117 @@
     "url": "/zh-cn/oboe/reed-drying-rack/",
     
     "relUrl": "/zh-cn/oboe/reed-drying-rack/"
+  },"67": {
+    "doc": "哨片切割器",
+    "title": "英国管哨片切割器",
+    "content": "英国管哨片切割器与双簧管版本采用相同设计。制作指南、物料清单、组装步骤及使用说明请参考双簧管哨片切割器页面。 . ",
+    "url": "/zh-cn/english-horn/reed-guillotine/#%E8%8B%B1%E5%9B%BD%E7%AE%A1%E5%93%A8%E7%89%87%E5%88%87%E5%89%B2%E5%99%A8",
+    
+    "relUrl": "/zh-cn/english-horn/reed-guillotine/#英国管哨片切割器"
+  },"68": {
+    "doc": "哨片切割器",
+    "title": "哨片切割器",
+    "content": " ",
+    "url": "/zh-cn/english-horn/reed-guillotine/",
+    
+    "relUrl": "/zh-cn/english-horn/reed-guillotine/"
+  },"69": {
+    "doc": "哨片切割器",
+    "title": "双簧管哨片切割器",
+    "content": " ",
+    "url": "/zh-cn/oboe/reed-guillotine/#%E5%8F%8C%E7%B0%A7%E7%AE%A1%E5%93%A8%E7%89%87%E5%88%87%E5%89%B2%E5%99%A8",
+    
+    "relUrl": "/zh-cn/oboe/reed-guillotine/#双簧管哨片切割器"
+  },"70": {
+    "doc": "哨片切割器",
+    "title": "简介",
+    "content": "哨片切割器（别名包括切哨器、断头台等；英文别名包括 reed guillotine, tip cutter等）用于将哨片尖端切到所需长度。 OpenReed 哨片切割器具有以下特点： . | 双刀片设计，切割干净省力。 | 刀片可更换，采用廉价且广泛使用的标准刀片，钝化后可轻松低成本更换。 | 双端哨片座适配不同类型的哨片，包括多种双簧管哨座和英国管哨片。 | . ",
+    "url": "/zh-cn/oboe/reed-guillotine/#%E7%AE%80%E4%BB%8B",
+    
+    "relUrl": "/zh-cn/oboe/reed-guillotine/#简介"
+  },"71": {
+    "doc": "哨片切割器",
+    "title": "制作指南",
+    "content": "物料清单 . 打印件 . | 主体 $\\times$ 1（A） | 刀片座 $\\times$ 1（B） | 刀片夹 $\\times$ 2（C） | 左盖板 $\\times$ 1（D） | 右盖板 $\\times$ 1（E） | 手柄 $\\times$ 1（F） | 手柄轴 $\\times$ 1（G） | 哨片座 $\\times$ 1（H） | 哨片座螺丝 $\\times$ 1（I） | . 标准件 . | M5*10mm 螺丝 $\\times$ 2（a） | M2.5*5mm 螺丝 $\\times$ 2（b） | 0.4mm×4.5mm×10mm（线径×外径×长度）弹簧 $\\times$ 2（c） | 009 RD 刀片 $\\times$ 2（d） | . 辅助工具 . | 螺丝刀 | 镊子 | . 打印零件 . 生成 3D 文件 . | 来源 | 说明 | . | GitHub 仓库 | 从源代码生成 3D 文件。您可能需要在系统上安装 OpenSCAD 和 Python。 | . | MakerWorld 全球版 | 在 MakerWorld 全球版网页上下载预生成的 .3mf 文件。 | . | MakerWorld 中文版 | 在 MakerWorld 中文版网页上下载预生成的 .3mf 文件。 | . 打印建议 . | 刀片座、刀片夹和哨片座建议使用低于 0.12mm 的层高，以保证精度。 | 刀片座和哨片座需要打印支撑。 | 建议使用多色打印以使刻度标记更清晰。 | 推荐使用 PETG 材料以获得更好的耐久性。 | . 组装 . 可按照以下步骤组装哨片切割器。组装过程简单灵活，可根据个人喜好调整步骤顺序。 . 第 1 步：安装底部刀片 . 取两片 009 RD 美工刀片中的一片作为底部刀片，将其卡入其中一个刀片夹中。 . 将刀片夹和刀片装入主体，可能需要用镊子辅助连接两个零件。 . 用 M2.5*5mm 螺丝固定，注意拧得过紧可能导致滑丝。此步骤需要用到螺丝刀。 . 第 2 步：安装顶部刀片 . 去除刀片座上的支撑材料。 . 与第 1 步类似，将另一片 009 RD 美工刀片插入另一个刀片夹，再将其装入刀片座。 现在可以用 M2.5×5mm 螺丝固定，但建议稍后再拧紧，因为连接的零件不易握持。 小心被刀片割伤。 . 第 3 步：安装手柄和盖板 . 取两根弹簧，放入主体上的弹簧槽中。 . 将顶部刀片座放入主体上的刀片槽中。 如果刀片座运动过紧，可考虑增大 upper_blade_holder_width_tolerance、upper_blade_holder_slot_tolerance 和 blade_length_tolerance 参数使其变松。 更多信息请参考 GitHub 仓库。 . 将手柄轴穿过手柄上的孔，然后装入主体上的轴槽中。 . 将左盖板和右盖板安装到主体上，用 M5*10mm 螺丝固定。 . 现在可以安全地拧紧顶部刀片座上的 M2.5*5mm 螺丝了。😊 . 第 4 步：安装哨片座 . 去除哨片座上的支撑材料。下图展示了已清除支撑材料的哨片座。 . 将哨片座螺丝拧入哨片座，然后将哨片座放入主体上的槽中。 切割哨片时，拧紧哨片座螺丝以固定哨片座；需要调整哨片座位置时则将其拧松。 . 至此哨片切割器已组装完成。😃 . ",
+    "url": "/zh-cn/oboe/reed-guillotine/#%E5%88%B6%E4%BD%9C%E6%8C%87%E5%8D%97",
+    
+    "relUrl": "/zh-cn/oboe/reed-guillotine/#制作指南"
+  },"72": {
+    "doc": "哨片切割器",
+    "title": "使用指南",
+    "content": "根据哨片座侧面的刻度标记调整切割长度。 使用哨片座的另一端时操作方式相同，该端主要设计用于英国管哨片。 . 将哨片放入哨片槽中，按下手柄进行切割。 . 如果刻度不准确，可调整 scale_tolerance 参数进行微调。 增大 scale_tolerance 会使哨片变长，减小则使哨片变短。 更多信息请参考 GitHub 仓库。 . ",
+    "url": "/zh-cn/oboe/reed-guillotine/#%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97",
+    
+    "relUrl": "/zh-cn/oboe/reed-guillotine/#使用指南"
+  },"73": {
+    "doc": "哨片切割器",
+    "title": "链接",
+    "content": "GitHub 仓库 . ",
+    "url": "/zh-cn/oboe/reed-guillotine/#%E9%93%BE%E6%8E%A5",
+    
+    "relUrl": "/zh-cn/oboe/reed-guillotine/#链接"
+  },"74": {
+    "doc": "哨片切割器",
+    "title": "哨片切割器",
+    "content": " ",
+    "url": "/zh-cn/oboe/reed-guillotine/",
+    
+    "relUrl": "/zh-cn/oboe/reed-guillotine/"
+  },"75": {
+    "doc": "Reed Guillotine",
+    "title": "Reed Guillotine for Oboe",
+    "content": " ",
+    "url": "/oboe/reed-guillotine/#reed-guillotine-for-oboe",
+    
+    "relUrl": "/oboe/reed-guillotine/#reed-guillotine-for-oboe"
+  },"76": {
+    "doc": "Reed Guillotine",
+    "title": "Description",
+    "content": "The reed guillotine is a tool used for cutting the tip of the reed to the desired length. The OpenReed reed guillotine has the following features: . | A double-blade design for clean and effortless cutting. | Replaceable blades made from inexpensive, widely available standard utility blades, allowing easy and low-cost replacement when they become dull. | A dual-end reed holder that accommodates different types of reeds, including various oboe reed staples and English horn reeds. | . ",
+    "url": "/oboe/reed-guillotine/#description",
+    
+    "relUrl": "/oboe/reed-guillotine/#description"
+  },"77": {
+    "doc": "Reed Guillotine",
+    "title": "Build Guide",
+    "content": "Bill of Materials . Printed Parts . | Main body $\\times$ 1 (A) | Blade holder $\\times$ 1 (B) | Blade clamp $\\times$ 2 (C) | Left lid $\\times$ 1 (D) | Right lid $\\times$ 1 (E) | Handle $\\times$ 1 (F) | Handle axle $\\times$ 1 (G) | Reed holder $\\times$ 1 (H) | Reed holder screw $\\times$ 1 (I) | . Standard Hardware . | M5*10mm Screw $\\times$ 2 (a) | M2.5*5mm Screw $\\times$ 2 (b) | 0.4mm*4.5mm*10mm (wire diameter * outer diameter * length) Spring $\\times$ 2 (c) | 009 RD Blade $\\times$ 2 (d) | . Auxiliary Tools . | A screwdriver | A tweezer | . Printing the Parts . Generating 3D Files . | Source | Description | . | GitHub Repository | Generate the 3D file from source. You may need to install OpenSCAD and Python on your system. | . | MakerWorld Global | Download the pre-generated .3mf file on MakerWorld Global webpage. | . | MakerWorld CN | Download the pre-generated .3mf file on MakerWorld CN webpage. | . Printing Tips . | Use a layer height lower than 0.12mm for the blade holder, blade clamps, and the reed holder to ensure precision. | Use support for the blade holder and the reed holder. | Use multi-color printing if available to make the scale markings more visible. | PETG is recommended for better durability. | . Assembly . You may follow the steps below to assemble the reed guillotine. The assembly process is straightforward and flexible, and you may adjust the order of the steps according to your preference. Step 1: Install the Bottom Blade . Select one of the two 009 RD blades as the bottom blade, and plug it into one of the blade clamps. Plug the blade clamp and the blade into the main body, you may need a tweezer to connect the two parts more easily. Secure it with an M2.5*5mm screw, and be careful not to overtighten it, as the plastic has limited strength. You will need a screw driver for this step. Step 2: Install the Top Blade . Remove the support material from the blade holder. Similarly with Step 1, plug the other 009 RD blade into the other blade clamp and plug them into the blade holder. You can secure it with an M2.5*5mm screw now, but it is recommended to secure it later, as the connected part is not easy to hold. Be aware of your fingers. Step 3: Install the Handle and the Lids . Select the two springs and put them into the spring slots on the main body. Put the top blade holder into the blade slot on the main body. If the movement of the blade holder is too tight, you can consider increasing upper_blade_holder_width_tolerance, upper_blade_holder_slot_tolerance, and blade_length_tolerance to make it looser. Please refer to the github repository for more information. Put the handle axle through the holes on the handle, and put them into the axle slot on the main body. Put the left lid and the right lid onto the main body, and secure them with M5*10mm screws. Now you can safely secure the top blade holder with an M2.5*5mm screw. 😊 . Step 4: Install the Reed Holder . Remove the support material from the reed holder. The image below shows the reed holder that has been removed of the support material. Screw the reed holder screw into the reed holder, and put the reed holder into the slot on the main body. When cutting your reeds, tighten the reed holder screw to secure the reed holder in place, and loosen it when you want to adjust the position of the reed holder. Your reed guillotine is now fully assembled and ready for use! 😃 . ",
+    "url": "/oboe/reed-guillotine/#build-guide",
+    
+    "relUrl": "/oboe/reed-guillotine/#build-guide"
+  },"78": {
+    "doc": "Reed Guillotine",
+    "title": "Usage Guide",
+    "content": "Adjust the cutting length according to the scale marking on the side of the reed holder. The procedure is similar when using the other side of the reed holder, which is primarily designed for English horn reeds. Place the reed in the reed slot and use the handle to cut the reed. If the scale is not accurate, adjust scale_tolerance to finetune it. Increasing scale_tolerance will result in a longer reed, while decreasing it will result in a shorter reed. Please refer to the github repository for more information. ",
+    "url": "/oboe/reed-guillotine/#usage-guide",
+    
+    "relUrl": "/oboe/reed-guillotine/#usage-guide"
+  },"79": {
+    "doc": "Reed Guillotine",
+    "title": "Links",
+    "content": "GitHub Repository . ",
+    "url": "/oboe/reed-guillotine/#links",
+    
+    "relUrl": "/oboe/reed-guillotine/#links"
+  },"80": {
+    "doc": "Reed Guillotine",
+    "title": "Reed Guillotine",
+    "content": " ",
+    "url": "/oboe/reed-guillotine/",
+    
+    "relUrl": "/oboe/reed-guillotine/"
+  },"81": {
+    "doc": "Reed Guillotine",
+    "title": "Reed Guillotine for English Horn",
+    "content": "The reed guillotine for English horn shares the same design as the Oboe version. Please refer to the Oboe reed guillotine page for the build guide, bill of materials, assembly instructions, and usage details. ",
+    "url": "/english-horn/reed-guillotine/#reed-guillotine-for-english-horn",
+    
+    "relUrl": "/english-horn/reed-guillotine/#reed-guillotine-for-english-horn"
+  },"82": {
+    "doc": "Reed Guillotine",
+    "title": "Reed Guillotine",
+    "content": " ",
+    "url": "/english-horn/reed-guillotine/",
+    
+    "relUrl": "/english-horn/reed-guillotine/"
   }
 }
