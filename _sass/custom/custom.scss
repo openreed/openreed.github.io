@@ -24,6 +24,18 @@ html {
   }
 }
 
+// ============================================================
+// 固定顶部功能栏（搜索、语言切换、GitHub 链接）
+// ============================================================
+.main-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--body-background-color, #fff);
+  // 下方加一条细分割线，视觉上区分顶部栏与正文
+  border-bottom: 1px solid var(--border-color, #eeebee);
+}
+
 // 正文和导航栏留有呼吸间距
 // 侧栏宽度在 md+ 保持一致（窄屏时侧栏折叠，不应设固定宽度）
 @include mq(md) {

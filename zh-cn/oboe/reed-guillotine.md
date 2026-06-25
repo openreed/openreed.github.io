@@ -157,8 +157,13 @@ OpenReed 哨片切割器具有以下特点：
 
 
 ## 相关链接
+
+### 资源
 <a href="https://github.com/openreed/reed-guillotine" class="btn btn-github fs-5 mb-4 mb-md-0 mr-2">GitHub 仓库</a>
 
 <a href="https://makerworld.com/en/models/2970069-reed-guillotine-for-oboe-and-english-horn#profileId-3330683" class="btn btn-makerworld fs-5 mb-4 mb-md-0 mr-2">MakerWorld 全球站</a>
 
 <a href="https://makerworld.com.cn/zh/models/2660993-shuang-huang-guan-ying-guo-guan-shao-pian-duan-tou#profileId-3076026" class="btn btn-makerworld fs-5 mb-4 mb-md-0 mr-2">MakerWorld 中国站</a>
+
+### 购买
+<a href="https://item.taobao.com/item.htm?id=1059778179637&mi_id=0000u1RfG2WnJNSollX2MNy-f4MiO1BYF9K_o31hdaUc0Eg&spm=a21xtw.29178619.0.0&xxc=shop" class="btn btn-taobao fs-5 mb-4 mb-md-0 mr-2">淘宝</a>

@@ -6873,6 +6873,13 @@ html {
   .site-nav,
   .site-footer {
     width: 100%; } }
+.main-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--body-background-color, #fff);
+  border-bottom: 1px solid var(--border-color, #eeebee); }
+
 @media (min-width: 50rem) {
   .side-bar {
     width: 14rem; }
