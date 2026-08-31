@@ -58,8 +58,8 @@ The OpenReed reed guillotine has the following features:
 | Source | Description |
 |---------|-------------|
 | [GitHub Repository](https://github.com/openreed/reed-guillotine) | Generate the 3D file from source. You may need to install [OpenSCAD](https://www.openscad.org/) and [Python](https://www.python.org/) on your system. |
-| [MakerWorld Global](https://makerworld.com/en/models/2970069-reed-guillotine-for-oboe-and-english-horn#profileId-3330683) | Download the pre-generated `.3mf` file on MakerWorld Global webpage. |
-| [MakerWorld CN](https://makerworld.com.cn/zh/models/2660993-shuang-huang-guan-ying-guo-guan-shao-pian-duan-tou#profileId-3076026) | Download the pre-generated `.3mf` file on MakerWorld CN webpage. |
+| [MakerWorld Global](https://makerworld.com/en/models/2970069-reed-guillotine-for-oboe-and-english-horn#profileId-3330683) | Generate the 3D file or download the pre-built `.3mf` file on MakerWorld Global webpage. |
+| [MakerWorld CN](https://makerworld.com.cn/zh/models/2660993-shuang-huang-guan-ying-guo-guan-shao-pian-duan-tou#profileId-3076026) | Generate the 3D file or download the pre-built `.3mf` file on MakerWorld CN webpage. |
 
 
 #### Printing Tips
