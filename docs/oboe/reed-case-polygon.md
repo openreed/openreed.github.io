@@ -74,17 +74,11 @@ Changing the panel count or radius also changes panel spacing, the upper transit
 
 **The magnet pockets are enclosed. Insert the magnets during printing, before the pocket roofs are printed. They cannot be inserted after the case is complete.**
 
-For the default parameters, with the model bottom at **Z = 0**, add three insertion pauses:
+1. Inspect each magnet pocket layer by layer in the slicer's preview and add a pause before the first layer that closes it. Use a pause command supported by your printer and confirm whether the slicer pauses before or after the selected layer.
+2. At each pause, park the nozzle clear of the part and keep the build plate and model in place. Insert the magnets through the open tops of their pockets with the polarity checked beforehand, seating them fully on the pocket floors.
+3. Check that each magnet sits at or below the surrounding printed surface and clear of the nozzle's path. Remove debris, then resume printing to seal the magnets inside the case. Repeat for the other pockets.
 
-1. **Lower closure magnets × 2:** pockets at **Z = 4.90–15.10 mm**. Before the first layer closing the pockets near the 15.10 mm roof height, insert one small magnet in each end panel.
-2. **Centre magnet × 1:** pocket at approximately **Z = 28.16–68.56 mm**. Before the first closing layer near the 68.56 mm roof height, insert the long magnet in the centre panel.
-3. **Upper closure magnets × 2:** pockets at approximately **Z = 81.62–91.82 mm**. Before the first closing layer near the 91.82 mm roof height, insert the remaining small magnet in each end panel.
-
-**These are geometric roof heights, not fixed pause heights or layer numbers.** In the slicer's preview, find the first toolpath spanning each pocket opening and pause immediately before it prints. Confirm whether your slicer pauses before or after the selected layer. Model placement, first-layer height, variable layer heights, and parameter changes affect the actual pause layers. Use a pause command supported by your printer and park the nozzle clear of the part.
-
-At each pause, keep the build plate and model in place. Insert the magnets from the open top of the pockets, following the polarity marks, and seat them fully on the printed pocket floor. Check that each magnet sits at or below the surrounding printed surface and clear of the next nozzle path. Keep loose magnets away from the print head, remove debris, and resume printing.
-
-**Do not insert magnets when the pockets first appear:** the upright magnets would protrude into the nozzle's path. The default extra pocket height is only 0.2 mm for the small magnets and 0.4 mm for the long magnet. Check the sliced floor height as well as the roof. If a seated magnet would still protrude at the last open layer, adjust local layer heights or increase the corresponding `*MagnetHeightTolerance`, then regenerate and reslice.
+**Do not insert magnets when the pockets first appear**, as they could protrude into the nozzle's path. Recheck the pause layers and magnet fit whenever you change the model or reslice.
 
 ### After Printing
 
