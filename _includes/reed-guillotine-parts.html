@@ -1,0 +1,13 @@
+{%- assign diagram = site.data.reed_guillotine_parts[include.type] -%}
+<div class="guillotine-parts-photo">
+  <img src="{{ diagram.image | relative_url }}" alt="{{ include.alt | escape }}" width="4032" height="3024">
+  <svg class="guillotine-parts-labels" viewBox="0 0 1824 1368" aria-hidden="true" focusable="false">
+    {% for label in diagram.labels %}
+    <g>
+      <line x1="{{ label.x }}" y1="{{ label.y }}" x2="{{ label.to_x }}" y2="{{ label.to_y }}"></line>
+      <circle cx="{{ label.x }}" cy="{{ label.y }}" r="34"></circle>
+      <text x="{{ label.x }}" y="{{ label.y }}" dy="0.35em" text-anchor="middle">{{ label.letter }}</text>
+    </g>
+    {% endfor %}
+  </svg>
+</div>

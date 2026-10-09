@@ -1,0 +1,21 @@
+printed:
+  image: /assets/images/reed-guillotine-v2/printed-parts.jpeg
+  labels:
+    - { letter: A, x: 200, y: 650, to_x: 290, to_y: 650 }
+    - { letter: B, x: 1330, y: 260, to_x: 1330, to_y: 325 }
+    - { letter: C, x: 945, y: 300, to_x: 945, to_y: 367 }
+    - { letter: D, x: 750, y: 620, to_x: 805, to_y: 620 }
+    - { letter: E, x: 1150, y: 620, to_x: 1100, to_y: 620 }
+    - { letter: F, x: 1260, y: 1200, to_x: 1260, to_y: 1120 }
+    - { letter: G, x: 850, y: 830, to_x: 915, to_y: 830 }
+    - { letter: H, x: 1640, y: 810, to_x: 1575, to_y: 810 }
+    - { letter: I, x: 1480, y: 555, to_x: 1390, to_y: 555 }
+hardware:
+  image: /assets/images/reed-guillotine-v2/standard-hardware.jpeg
+  labels:
+    - { letter: a, x: 1030, y: 420, to_x: 1030, to_y: 495 }
+    - { letter: a, x: 1295, y: 420, to_x: 1295, to_y: 495 }
+    - { letter: b, x: 635, y: 910, to_x: 635, to_y: 830 }
+    - { letter: c, x: 1040, y: 925, to_x: 1040, to_y: 835 }
+    - { letter: c, x: 1305, y: 925, to_x: 1305, to_y: 830 }
+    - { letter: d, x: 610, y: 400, to_x: 610, to_y: 480 }
